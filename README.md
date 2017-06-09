@@ -4,7 +4,7 @@ Wrote a simple shell script to set up virtualenv and django project fast and eas
 ### To run the script
 Make sure the script file is executable
 ```shell
-chmod +x filename
+chmod +x filename.sh
 ```
 
 ### Last step
